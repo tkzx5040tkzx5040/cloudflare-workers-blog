@@ -1,10 +1,10 @@
 'use strict';
 const OPT = {
     "user" : "admin", //后台密码
-    "password" : "yourSelfPwd", //后台密码
-    "siteDomain" : "blog.gezhong.vip",// 域名(不带https 也不带/)
-    "siteName" : "CF workers blog",//博客名称
-    "siteDescription":"A Blog Powered By Cloudflare Workers and KV",//博客描述
+    "password" : "pwdhaorjcom", //后台密码
+    "siteDomain" : "blog.haorj.com",// 域名(不带https 也不带/)
+    "siteName" : "好软件推荐",//博客名称
+    "siteDescription":"blog.haorj.com",//博客描述
     "keyWords":"cloudflare,KV,workers,blog",//关键字
     "cacheZoneId":"cc868e8edce4027ad4a735741111111",//清理缓存用 cf区域 ID
     "cacheToken":"LNxRWH-MPMIGnp8qhyT8FUsjDRN6tdOnmaaaaaaa",//清理缓存用 cf API token
